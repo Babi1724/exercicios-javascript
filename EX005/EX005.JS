@@ -1,0 +1,1 @@
+//Converta string para número (Number)
