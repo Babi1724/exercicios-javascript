@@ -1,0 +1,49 @@
+# ⚡ JavaScript Lab & Daily Exercises
+
+> *"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
+
+Bem-vindo(a) ao meu repositório de estudos de **JavaScript**! 🚀  
+Este espaço foi criado para registrar a minha evolução diária, documentar a resolução de problemas e armazenar os exercícios práticos que venho realizando na minha jornada como desenvolvedora.
+
+---
+
+## 🎯 Objetivo
+
+O intuito deste repositório é:
+- **Consolidar os fundamentos:** Praticar sintaxe, lógica de programação e algoritmos do básico ao avançado.
+- **Registrar o progresso:** Ter uma linha do tempo clara do meu aprendizado passo a passo.
+- **Boas práticas:** Aplicar código limpo, commits organizados e documentação desde os primeiros passos.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagem:** JavaScript (ES6+)
+- **Ambiente:** Node.js / Browser Console
+- **IDE:** VS Code
+- **Versionamento:** Git & GitHub
+
+---
+
+## 📚 Trilha de Exercícios & Evolução
+
+Conforme avanço nos estudos, organizo os exercícios por tópicos:
+
+### 🟢 Módulo 1: Fundamentos Básicos
+- [x] Variáveis e Tipos de Dados (`var`, `let`, `const`)
+- [x] Operadores (Aritméticos, Relacionais e Lógicos)
+- [x] Estruturas Condicionais (`if`, `else`, `switch`)
+- [x] Estruturas de Repetição (`for`, `while`, `do...while`)
+
+### 🟡 Módulo 2: Funções & Lógica Intermediária
+- [ ] Funções tradicionais e Arrow Functions
+- [ ] Manipulação de Arrays (`map`, `filter`, `reduce`)
+- [ ] Objetos e Estruturas de Dados
+- [ ] Escopo e Hoisting
+
+### 🔴 Módulo 3: Manipulação de DOM & Assincronismo
+- [ ] Seleção e manipulação de elementos HTML
+- [ ] Eventos no Navegador
+- [ ] Promises, `async/await` e consumo de APIs (`fetch`)
+
+---
